@@ -1,5 +1,7 @@
 # ChatGPT-fuzz.txt
 
+Original fuzz.txt - https://github.com/Bo0oM/fuzz.txt
+
 😮I asked the neural network ChatGPT to imagine that it created its own website and forgot some important files in the root. It sent me this list.<br>
 😎Я попросил нейросеть ChatGPT представить, что она создала собственный сайт и забыла какие-то важные файлы в корне. Она прислала мне этот список.<br><br>
 
